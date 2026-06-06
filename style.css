@@ -41,3 +41,16 @@ img {
     text-decoration: none;
     margin-top: 10px;
 }
+
+.Testimoni {
+    background: white;
+    padding: 10px;
+    margin: 8px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.Testimoni img {
+    width: 100%;
+    max-width: 300px;
+    border-radius: 10px;
